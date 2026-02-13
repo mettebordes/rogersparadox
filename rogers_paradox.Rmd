@@ -716,3 +716,7 @@ RogersModel.crit()
 Enquist, M., Eriksson, K., & Ghirlanda, S. (2007). Critical social learning: A solution to Rogers’ paradox of nonadaptive culture. American Anthropologist, 109(4), 727–734.
 
 Rogers, A. (1988). Does biology constrain culture? American Anthropologist, 90(4), 819–831.
+
+
+
+
